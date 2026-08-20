@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Полная пересборка подпроекта одной командой.
+"""Обновление проекта
 
     python advanced/run_all.py            # данные + ноутбуки
     python advanced/run_all.py --no-data  # только ноутбуки
